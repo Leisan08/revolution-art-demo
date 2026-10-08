@@ -1,0 +1,5 @@
+Revolution Art (Demo) - paquete PWA
+
+1. Suba esta carpeta completa a un hosting con HTTPS: https://app.netlify.com/drop (arrastrar la carpeta) o GitHub Pages.
+2. Abra la dirección resultante en el teléfono y use "Instalar app" / "Añadir a pantalla de inicio".
+3. Para el APK: https://www.pwabuilder.com -> pegar la dirección -> Package for stores -> Android -> Generate.
